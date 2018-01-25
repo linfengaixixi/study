@@ -1,7 +1,7 @@
 package com.dzz.innerclass;
 
 public interface Selector {
-	boolean end();
+	public	boolean end();
 
 	Object current();
 
